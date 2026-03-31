@@ -8,3 +8,6 @@ forth line
 7th 8th
 
 9th 10th
+
+
+some changes i made for the fetch command usages
